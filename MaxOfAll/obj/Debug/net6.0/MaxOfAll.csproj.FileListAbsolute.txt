@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\bin\Debug\net6.0\MaxOfAll.exe
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\bin\Debug\net6.0\MaxOfAll.deps.json
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\bin\Debug\net6.0\MaxOfAll.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\bin\Debug\net6.0\MaxOfAll.dll
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\bin\Debug\net6.0\MaxOfAll.pdb
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.dll
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\refint\MaxOfAll.dll
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.pdb
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\MaxOfAll.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\MaxOfAll\MaxOfAll\obj\Debug\net6.0\ref\MaxOfAll.dll
